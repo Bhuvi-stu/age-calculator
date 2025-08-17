@@ -32,3 +32,4 @@ function calculateAge() {
 
   result.textContent = `🎂You are ${years} year(s), ${months} month(s), and ${days} day(s) old.`;
 }
+
